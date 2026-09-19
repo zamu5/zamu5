@@ -106,11 +106,11 @@ rating.*
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sergio's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zamu5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sergio's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamu5&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=zamu5&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 🤝 Let’s Connect
@@ -119,7 +119,7 @@ I’m always happy to connect with people who enjoy software engineering,
 cloud technologies, system design, and continuous learning.
 
 <p>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/zamu5">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <!-- Add your LinkedIn URL or personal website when you're ready -->
