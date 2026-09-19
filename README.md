@@ -1,10 +1,4 @@
-<!--
-  Hi! 👋
-  To use this as your GitHub profile README:
-  1. Create a public repository with the exact same name as your GitHub username.
-  2. Save this file as README.md in the repository root.
-  3. Replace YOUR_GITHUB_USERNAME in the stats cards below.
--->
+
 <h1 align="center">
 Hey there, I’m Sergio Zamudio 👋
 </h1>
@@ -13,8 +7,8 @@ Backend Engineer · Cloud & Distributed Systems Enthusiast · Future
 Technology Leader
 </h3>
 <p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<a href="https://github.com/zamu5">
+<img src="https://komarev.com/ghpvc/?username=zamu5&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </a>
 <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0A66C2?style=for-the-badge" alt="Focus: Scalable Systems" />
 <img src="https://img.shields.io/badge/Driven%20by-Curiosity-ff69b4?style=for-the-badge" alt="Driven by curiosity" />
